@@ -1,0 +1,14 @@
+C:\dev\InCompany\src\Data_Access_Layer\bin\Debug\net6.0\Data_Access_Layer.deps.json
+C:\dev\InCompany\src\Data_Access_Layer\bin\Debug\net6.0\Data_Access_Layer.runtimeconfig.json
+C:\dev\InCompany\src\Data_Access_Layer\bin\Debug\net6.0\Data_Access_Layer.dll
+C:\dev\InCompany\src\Data_Access_Layer\bin\Debug\net6.0\Data_Access_Layer.pdb
+C:\dev\InCompany\src\Data_Access_Layer\obj\Debug\net6.0\Data_Access_Layer.csproj.AssemblyReference.cache
+C:\dev\InCompany\src\Data_Access_Layer\obj\Debug\net6.0\Data_Access_Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\InCompany\src\Data_Access_Layer\obj\Debug\net6.0\Data_Access_Layer.AssemblyInfoInputs.cache
+C:\dev\InCompany\src\Data_Access_Layer\obj\Debug\net6.0\Data_Access_Layer.AssemblyInfo.cs
+C:\dev\InCompany\src\Data_Access_Layer\obj\Debug\net6.0\Data_Access_Layer.csproj.CoreCompileInputs.cache
+C:\dev\InCompany\src\Data_Access_Layer\obj\Debug\net6.0\Data_Access_Layer.dll
+C:\dev\InCompany\src\Data_Access_Layer\obj\Debug\net6.0\refint\Data_Access_Layer.dll
+C:\dev\InCompany\src\Data_Access_Layer\obj\Debug\net6.0\Data_Access_Layer.pdb
+C:\dev\InCompany\src\Data_Access_Layer\obj\Debug\net6.0\Data_Access_Layer.genruntimeconfig.cache
+C:\dev\InCompany\src\Data_Access_Layer\obj\Debug\net6.0\ref\Data_Access_Layer.dll
